@@ -1,0 +1,14 @@
+set xlabel 'x'
+set ylabel 'y'
+set key off
+plot '-' using 1:2 with lines, '-' using 1:2 with points
+e
+e
+set title 'Regression Line'
+set key on
+plot '-' using 1:2 with lines, '-' using 1:2 with points
+1 0.224532
+e
+3 0.224611
+set label b = 0.224493 at graph 0.5, 0.8
+set label R = 0.875986 at graph 0.5,0.75

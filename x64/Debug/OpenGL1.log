@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\VisualProjects\OpenGL1\OpenGL1\main.cpp(83,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  OpenGL1.vcxproj -> D:\VisualProjects\OpenGL1\x64\Debug\OpenGL1.exe
